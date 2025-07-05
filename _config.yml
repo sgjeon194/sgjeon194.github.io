@@ -52,13 +52,19 @@ github_username:  ftatp
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a Ph.D student at Korea University ECE (Electronic Engineering in Computer) advised by [Jeongseob Ahn](https://jeongseob.github.io/). \
+  My current main interests is about accelerating AI systems or architectures. 
+  
+  Before joining [CSL@KU](https://sites.google.com/korea.ac.kr/csl/home?authuser=0), I received my M.S in Ajou University CSE (Computer Science & Engineering), working with Kyungsik Han, \
+  and I worked as a Graphic's programmer and project leader at the Republic of Korean army military service.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
