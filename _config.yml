@@ -68,6 +68,12 @@ about_content: > # this will include new lines to allow paragraphs
 #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Publications
+    layout: list
+    content:
+      - layout: top-left
+        quote: >
+          Jeon, Y., Jeon, S. G., & Han, K. (2020). Better targeting of consumers: Modeling multifactorial gender and biological sex from Instagram posts. User Modeling and User-Adapted Interaction, 30(5), 833-866.
   - title: Experience
     layout: list
     content:
@@ -90,18 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
 
-          
-  # - title: Education
-  #   layout: list
-  #   content:
-  #     - layout: top-right
-  #       title: Institution name
-  #       sub_title: Qualifications (eg. BA Performing Arts)
-  #       caption: Date Range (eg. 2016 - 2019)
-  #       quote: >
-  #         Short institution or course description (optional)
-  #       description: | # this will include new lines to allow paragraphs
-  #         Description of qualification
+        
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
