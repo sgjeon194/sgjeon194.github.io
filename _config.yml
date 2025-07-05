@@ -89,15 +89,15 @@ content:
     layout: list
     content:
       - layout: left
-        title: MobilTech (as Military service)
-        sub_title: Technical Researcher & Project Manager
+        title: MobilTech (Military service)
+        sub_title: Software Programmer & Project Manager
         caption: July. 2022 ~ Sept. 2023
         quote: >
         description: | # this will include new lines to allow paragraphs
           
       - layout: left
-        title: TenEleven (as Military service)
-        sub_title: Technical Researcher
+        title: TenEleven (Military service)
+        sub_title: Graphics Programmer
         caption: Sept. 2020 ~ July. 2022 
         quote: >
         description: | # this will include new lines to allow paragraphs
