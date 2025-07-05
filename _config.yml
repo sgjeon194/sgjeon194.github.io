@@ -51,9 +51,8 @@ github_username:  ftatp
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D student at Korea University ECE (Electronic Engineering in Computer) advised by [Jeongseob Ahn](https://jeongseob.github.io/). \
-  My current main interests is about accelerating AI systems or architectures. 
+about_content: > # this will include new lines to allow paragraphs
+  I am a Ph.D student at Korea University ECE (Electronic Engineering in Computer) advised by [Jeongseob Ahn](https://jeongseob.github.io/). My current main interests are about accelerating AI systems or architectures. 
   
   Before joining [CSL@KU](https://sites.google.com/korea.ac.kr/csl/home?authuser=0), I received my M.S in Ajou University CSE (Computer Science & Engineering), working with Kyungsik Han, \
   and I worked as a Graphic's programmer and project leader at the Republic of Korean army military service.
