@@ -52,9 +52,10 @@ github_username:  ftatp
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: > # this will include new lines to allow paragraphs
-  I am a Ph.D student at Korea University ECE (Electronic Engineering in Computer) advised by [Jeongseob Ahn](https://jeongseob.github.io/). My current main interests are about accelerating AI systems or architectures. 
+  I am a Ph.D student at Korea University ECE (Electronic Engineering in Computer) advised by [Jeongseob Ahn](https://jeongseob.github.io/). 
+  My current main interests are about accelerating AI systems or architectures.\n
   
-  Before joining [CSL@KU](https://sites.google.com/korea.ac.kr/csl/home?authuser=0), I received my M.S in Ajou University CSE (Computer Science & Engineering), working with Kyungsik Han, \
+  Before joining [CSL@KU](https://sites.google.com/korea.ac.kr/csl/home?authuser=0), I received my M.S in Ajou University CSE (Computer Science & Engineering), working with Kyungsik Han,
   and I worked as a Graphic's programmer and project leader at the Republic of Korean army military service.
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
