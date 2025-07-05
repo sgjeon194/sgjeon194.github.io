@@ -69,9 +69,9 @@ about_content: > # this will include new lines to allow paragraphs
 
 content:
   - title: Publications
-    layout: list
+    layout: text
     content:
-      - layout: projects
+      - layout: left
         title: The More, the Better? Improving VR Firefighting Training System with Realistic Firefighter Tools as Controllers
         sub_title: Jeon, Y., Jeon, S. G., & Han, K. (2020)
         caption: User Modeling and User-Adapted Interaction, 30(5), 833-866.
