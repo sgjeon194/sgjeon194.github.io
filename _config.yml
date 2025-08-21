@@ -52,7 +52,7 @@ github_username:  sgjeon194
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: > # this will include new lines to allow paragraphs
-  I am a Ph.D student at Korea University ECE (Electronic Engineering in Computer) advised by [Jeongseob Ahn](https://jeongseob.github.io/). 
+  I am a Ph.D student at Korea University ECE (Electronic & Computer Engineering) advised by [Jeongseob Ahn](https://jeongseob.github.io/). 
   My current main interests are about accelerating AI systems and architectures.
 
   
